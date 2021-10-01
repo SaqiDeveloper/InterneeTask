@@ -1,0 +1,15 @@
+#regform{
+    width: 30%;
+    margin: auto;
+    margin-top: 20px;
+}
+input{
+    margin-top: 10px;
+}
+select{
+    margin-top: 10px;
+}
+#btn{
+    margin-top: 10px;
+    
+}

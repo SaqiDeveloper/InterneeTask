@@ -1,0 +1,61 @@
+.container{
+    margin-top: 20px;
+}
+#b{
+    font-size: 15px;
+    width: fit-content;
+    margin-left: 10px;
+    
+}
+#tdw{
+    width: 160px;
+    height: 20px;
+    
+}
+.heading{
+   font-weight: bold;
+    color: white;
+    font-size:25px;
+    margin-left: 40%;
+    margin-top: 5px;
+    padding: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px 10px;
+    position: absolute;
+    top: 50px;
+}
+
+#message{
+    color: red;
+}
+.thead-dark{
+    background-color: rgb(11, 107, 250);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+td{
+    text-align: center;
+}
+#btn-div{
+    position: absolute;
+    left: auto;
+    top: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 0px 0px 20px 0px;
+    width: 100%;
+}
+#next-btn{
+    width: 100px;
+    font-weight: bolder;
+    color: white;
+}
+#pre-btn{
+    font-weight: bolder;
+    color: white;
+}
+#heading{
+   
+}

@@ -1,0 +1,21 @@
+#lgform{
+    width: 35%;
+    margin: auto;
+    margin-top: 50px;
+}
+input
+{
+    margin-top: 15px;
+}
+#btn-signup{
+    margin-top: 5px;
+}
+#btn-signin{
+    margin-top: 15px;
+}
+#lbl
+{
+   font-size: 20px;
+    margin-left: 45%;
+    margin-top: 5px;
+}
